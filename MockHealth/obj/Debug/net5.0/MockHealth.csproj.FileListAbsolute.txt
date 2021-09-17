@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\bin\Debug\net5.0\MockHealth.exe
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\bin\Debug\net5.0\MockHealth.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\bin\Debug\net5.0\MockHealth.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\bin\Debug\net5.0\MockHealth.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\bin\Debug\net5.0\MockHealth.dll
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\bin\Debug\net5.0\ref\MockHealth.dll
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\bin\Debug\net5.0\MockHealth.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\obj\Debug\net5.0\MockHealth.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\obj\Debug\net5.0\MockHealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\obj\Debug\net5.0\MockHealth.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\obj\Debug\net5.0\MockHealth.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\obj\Debug\net5.0\MockHealth.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\obj\Debug\net5.0\MockHealth.dll
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\obj\Debug\net5.0\ref\MockHealth.dll
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\obj\Debug\net5.0\MockHealth.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockHealth\obj\Debug\net5.0\MockHealth.genruntimeconfig.cache
